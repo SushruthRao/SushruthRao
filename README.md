@@ -1,7 +1,7 @@
-### Hi there 👋
-# My name is Sushruth !
-# I'm currently learning and have worked with C++, C#, Java, Python, Javascript.
-# I'm interested in automation and I want to learn everything and have a thrist for knowledge !
+### 💼Hi there 💼
+- My name is Sushruth !
+- I'm currently learning and have worked with C++, C#, Java, Python, Javascript.
+- I'm interested in automation and I want to learn everything and have a thrist for knowledge !
 
 <!--
 **SushruthRao/SushruthRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
