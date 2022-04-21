@@ -1,7 +1,7 @@
 ### 💼 Hi there 💼
 - 😄 My name is Sushruth !
-- 💬 I'm currently learning and have worked with C++, C#, Java, Python, Javascript.
-- ⚡ I'm interested in automation , reverse-engineering and bug hunting.
+- 💬 I am proficient in C++, C#, Java, Python,  Javascript.
+- ⚡ I'm interested in reverse-engineering and malware analysis.
 
 <!--
 **SushruthRao/SushruthRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
