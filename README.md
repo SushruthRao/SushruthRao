@@ -3,8 +3,10 @@
 - 💬 I am proficient in C++, C#, Java, Python,  Javascript.
 - ⚡ I'm interested in reverse-engineering and malware analysis.
 -->
+
 <div id="header" align="center">
-  <img src="giphy.gif" width="200"/>
+  <img src="giphy.gif" width="100" height="100"/> <br>
+  Hello 👋
 </div>
 <br>
 
