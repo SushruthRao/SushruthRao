@@ -5,7 +5,7 @@
 -->
 
 <div id="header" align="center">
-  <img src="giphy.gif" width="100" height="100"/> <br>
+  <img src="giphy1.gif" width="150" /> <br>
   Hello 👋
 </div>
 <br>
